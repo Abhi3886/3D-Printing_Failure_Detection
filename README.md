@@ -139,7 +139,3 @@ If failure:
 
 ---
 
-```
-
-Let me know if you'd like me to format this directly inside your project folder or add diagrams.
-```
